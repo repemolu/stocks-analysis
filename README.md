@@ -1,1 +1,3 @@
 # stocks-analysis
+
+This project consists of analysis stock data for stock symbols traded on the Nasdaq stock exchange. I downloaded stock market data from Yahoo Finance using a yahoo_finance Python package and was able to take the data from its CSV format and load it into dictionaries that organized the trade data in different ways such as the trades by day, trades by volume, and different averages, maximums, and minimums. After sorting and aggregating the data in multiple ways, I was able to figure out information such as, which stocks were the most profitable, the minimum, maximum and average closing prices for certain stocks, and the trading volumes of different days.    
